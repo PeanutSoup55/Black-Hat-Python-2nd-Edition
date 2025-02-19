@@ -1,7 +1,7 @@
 import socket
 import os
 
-HOST = '192.168.1.203'
+HOST = '192.168.2.24'
 
 def main():
     #create raw socket, bin to public interface
